@@ -2,7 +2,7 @@
 ## Author Info
 Tianyi Li of CBS
 ### Description 
-Some random homework because apparently I need to know at least some codes to graduate 
+HW 2 for Computing for Business Research
 #### HW2
 1st is the Fed Crawling project
 2nd is the SEC Crawling project
