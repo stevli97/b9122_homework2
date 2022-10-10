@@ -75,20 +75,3 @@ for target_url in target:
     print(target_url)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
